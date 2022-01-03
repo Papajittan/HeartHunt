@@ -1,0 +1,10 @@
+name: HeartHunt
+description: Steal the heart
+version: 1.3
+api-version: 1.18
+main: com.august.hearthunt.Main
+author: August
+commands:
+    withdraw:
+        description: Withdraw your heart!
+        usage: /withdraw <amount>
